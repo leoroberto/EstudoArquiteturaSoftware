@@ -1,2 +1,2 @@
 # CursoArquiteturaEP
-Curso de Arquitetura do site desenvolvedor.io (Eduardo Pires)
+Projeto de estudo sobre Arquitetura de Software
